@@ -1,0 +1,86 @@
+﻿2017/05/18 10:54:36 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\0133752\Documents\Visual Studio 2013\Projects\TrajectorySmoothing\TrajectorySmoothing\TrajectorySmoothing.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot" /I"C:\Users\0133752\Documents\Visual Studio 2013\Projects\VoronoiField\VoronoiField" /IC:\opencv\build\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>C:\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+     1>C:\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+     1>C:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\VoronoiField\VoronoiField\voronoifield.hpp(109): warning C4244: '=' : 'double' から 'unsigned char' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(133): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(134): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(135): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(147): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(148): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(149): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(151): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(152): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(153): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(155): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(156): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(157): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(159): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(160): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(161): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(163): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(164): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(165): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(167): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(168): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(169): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(171): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(172): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(173): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(175): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(176): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(177): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(183): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(227): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(228): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(229): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(231): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(232): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(233): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(235): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(236): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(237): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(239): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(240): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(241): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(243): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(244): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(245): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(247): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(248): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(249): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(251): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(252): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(253): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(255): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(256): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(257): warning C4244: '=' : 'double' から 'uchar' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(294): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(315): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(316): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(321): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(322): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(329): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>C:\Users\0133752\Documents\Visual Studio 2013\Projects\cvplot\cvplot\cvplot.hpp(330): warning C4244: '引数' : 'double' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\0133752\documents\visual studio 2013\projects\trajectorysmoothing\trajectorysmoothing\trajectorysmoothing.hpp(50): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>c:\users\0133752\documents\visual studio 2013\projects\trajectorysmoothing\trajectorysmoothing\trajectorysmoothing.hpp(51): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>c:\users\0133752\documents\visual studio 2013\projects\trajectorysmoothing\trajectorysmoothing\trajectorysmoothing.hpp(101): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>c:\users\0133752\documents\visual studio 2013\projects\trajectorysmoothing\trajectorysmoothing\trajectorysmoothing.hpp(232): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>c:\users\0133752\documents\visual studio 2013\projects\trajectorysmoothing\trajectorysmoothing\trajectorysmoothing.hpp(237): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>c:\users\0133752\documents\visual studio 2013\projects\trajectorysmoothing\trajectorysmoothing\trajectorysmoothing.hpp(256): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>c:\users\0133752\documents\visual studio 2013\projects\trajectorysmoothing\trajectorysmoothing\trajectorysmoothing.hpp(289): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>c:\users\0133752\documents\visual studio 2013\projects\trajectorysmoothing\trajectorysmoothing\trajectorysmoothing.hpp(296): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\0133752\Documents\Visual Studio 2013\Projects\TrajectorySmoothing\Release\TrajectorySmoothing.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\0133752\Documents\Visual Studio 2013\Projects\TrajectorySmoothing\Release\TrajectorySmoothing.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\0133752\Documents\Visual Studio 2013\Projects\TrajectorySmoothing\Release\TrajectorySmoothing.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         コード生成しています。
+         コード生成が終了しました。
+         TrajectorySmoothing.vcxproj -> C:\Users\0133752\Documents\Visual Studio 2013\Projects\TrajectorySmoothing\Release\TrajectorySmoothing.exe
+     1>プロジェクト "C:\Users\0133752\Documents\Visual Studio 2013\Projects\TrajectorySmoothing\TrajectorySmoothing\TrajectorySmoothing.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.93
